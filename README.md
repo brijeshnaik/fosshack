@@ -1,6 +1,6 @@
 ![Screenshot 2025-02-23 184405](https://github.com/user-attachments/assets/2fb1a295-01ab-4e98-9853-c59ebfd0da74)
 # fosshack
-Chill Pal
+Chill Pal:
 Chill Pal is a comprehensive mental health support platform that provides:
 
 Country-wise mental health statistics
@@ -46,7 +46,7 @@ The chatbot interacts with users facing mental stress, offering helpful recommen
 🧠 Mental Health Assessment Test
 Take a test to evaluate your mental well-being and get personalized insights.
 
-Contributing
+Contributing:
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ![Screenshot 2025-02-23 184437](https://github.com/user-attachments/assets/566f42e2-2ca5-40aa-9a46-5277a584fec6)
