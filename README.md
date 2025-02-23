@@ -48,8 +48,6 @@ Take a test to evaluate your mental well-being and get personalized insights.
 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-
-![Screenshot 2025-02-23 184455](https://github.com/user-attachments/assets/5a377807-37ab-4966-a770-70a3427101fc)
 ![Screenshot 2025-02-23 184437](https://github.com/user-attachments/assets/566f42e2-2ca5-40aa-9a46-5277a584fec6)
 ![Screenshot 2025-02-23 184423](https://github.com/user-attachments/assets/ee3d359d-61a4-4203-adb7-b38e7e3270a4)
-![Screenshot 2025-02-23 184405](https://github.com/user-attachments/assets/c2c10536-0807-4fa5-acab-749e67c3ace8)
+![Screenshot 2025-02-23 184455](https://github.com/user-attachments/assets/5a377807-37ab-4966-a770-70a3427101fc)
