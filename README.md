@@ -1,4 +1,5 @@
-![Screenshot 2025-02-23 184405](https://github.com/user-attachments/assets/2fb1a295-01ab-4e98-9853-c59ebfd0da74)# fosshack
+![Screenshot 2025-02-23 184405](https://github.com/user-attachments/assets/2fb1a295-01ab-4e98-9853-c59ebfd0da74)
+# fosshack
 Chill Pal
 Chill Pal is a comprehensive mental health support platform that provides:
 
